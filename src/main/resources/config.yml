@@ -1,4 +1,5 @@
 colors:
-  label: "#208799"
-  value: "#3fc19c"
-  message: "#95aaab"
+  Label-Color: "#F7E733"
+  Stat-Color: "#F7F7F9"
+  No-Stat-Color: "#545E56"
+  Player-Name-Color: "#F7F7F9"

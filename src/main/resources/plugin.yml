@@ -1,7 +1,9 @@
 name: GijinkakunProfile
 version: 1.0
 main: com.gijinkakun.GijinkakunProfile
-api-version: 1.20.6
+api-version: 1.21.0
+description: The GijinkakunProfile plugin allows Minecraft players to view detailed player profiles with /pf <playerName>. Shows stats like rank, time played, deaths, and more. Integrates with LuckPerms and includes tab completion.
+author: Christopher Satterthwaite
 commands:
   pf:
     description: Gets a players Name, Rank, and basic stats and displays them in the chat.
